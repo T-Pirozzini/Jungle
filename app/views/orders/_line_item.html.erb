@@ -1,0 +1,15 @@
+<tr>
+  <td>
+    <h4><%= product.name %></h4>
+    <%= image_tag product.image.tiny %>
+  </td>  
+  <td class="order-description">
+    <div><%= product.description %></div>
+  </td>
+  <td>
+    <%= quantity %>    
+  </td>
+  <td>    
+    <%= humanized_money_with_symbol product.price %> 
+  </td>  
+</tr>

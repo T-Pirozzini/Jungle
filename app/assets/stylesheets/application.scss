@@ -15,3 +15,13 @@ body {
 form.button_to {
   display: inline;
 }
+
+td, th {        
+  text-align: center;
+  font-size: medium;
+}
+
+.order-description, th.head-left {
+  text-align: left;
+  font-size: medium;
+}
