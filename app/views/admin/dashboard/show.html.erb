@@ -1,2 +1,7 @@
-<h1>Admin::Dashboard#show</h1>
-<p>Find me in app/views/admin/dashboard/show.html.erb</p>
+<h1>Administration - Dashboard: Current Inventory</h1>
+
+<h2>Total Products: <%= @products %></h2>
+<h2>Total Categories: <%= @categories %></h2>
+<form action="/admin/products">
+  <input class="btn btn-primary" type="submit" value="All Products" />
+</form>
