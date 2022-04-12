@@ -26,7 +26,7 @@ RSpec.describe Product, type: :model do
       expect(@product.errors.full_messages).to include("Price can't be blank")
     end
 
-    it 'throws an error if no quanity is provided' do
+    it 'throws an error if no quantity is provided' do
       @product = Product.create(name: 'Whack-Hammer', price: 45)
 
       expect(@product.errors.full_messages).to include("Quantity can't be blank")
