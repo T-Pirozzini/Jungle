@@ -6,7 +6,7 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 Home Page
 !["Home Page"](https://github.com/T-Pirozzini/Jungle/blob/master/docs/Jungle_Home.png?raw=true)
 
-Add products to your card
+Add products to your cart
 !["Shopping Cart"](https://github.com/T-Pirozzini/Jungle/blob/master/docs/Jungle_Cart.png?raw=true)
 
 Confirmation that your order has been received
