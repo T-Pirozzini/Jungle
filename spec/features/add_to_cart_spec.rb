@@ -17,7 +17,7 @@ RSpec.feature "AddToCarts", type: :feature, js: true do
     end
   end
 
-  scenario "They can click the 'Add to Cart' button to increase the cart quanity" do
+  scenario "They can click the 'Add to Cart' button to increase the cart quantity" do
     # ACT
     visit root_path 
     page.first('form.button_to').click

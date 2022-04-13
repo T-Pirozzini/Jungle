@@ -2,6 +2,16 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Final Product
+Home Page
+!["Home Page"]()
+
+Book an Interview
+!["Shopping Cart"]()
+
+Feature: Confirmation when you cancel an interview
+!["Order Placed"]()
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
