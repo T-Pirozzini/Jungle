@@ -6,10 +6,10 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 Home Page
 !["Home Page"](https://github.com/T-Pirozzini/Jungle/blob/master/docs/Jungle_Home.png?raw=true)
 
-Book an Interview
+Add products to your card
 !["Shopping Cart"](https://github.com/T-Pirozzini/Jungle/blob/master/docs/Jungle_Cart.png?raw=true)
 
-Feature: Confirmation when you cancel an interview
+Confirmation that your order has been received
 !["Order Placed"](https://github.com/T-Pirozzini/Jungle/blob/master/docs/Jungle_Checkout.png?raw=true)
 
 ## Additional Steps for Apple M1 Machines
